@@ -1,0 +1,29 @@
+.room {
+    height: 100vh;
+}
+  
+.container {
+    text-align: center;
+    margin: auto;
+    border: 2px solid red;
+}
+  
+.lit {
+    background-color: white;
+    color: black;
+}
+  
+.dark {
+    background-color: black;
+    color: white;
+}
+  
+h1 {
+    text-align: center;
+}
+
+button {
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+}
